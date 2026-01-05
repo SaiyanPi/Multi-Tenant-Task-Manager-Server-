@@ -4,7 +4,7 @@ This project is me implementing my knowledge in Web API development with ASP.NET
 
 For the realtime Client notification, Simple TypeScript application is used.
 
-
+<hr>
 # Multi-Tenant Task Manager
 
 A multi-tenant task management application with real time SignalR notification built with ASP.NET Core, Entity Framework, and TypeScript. 
